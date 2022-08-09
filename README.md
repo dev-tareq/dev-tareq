@@ -12,4 +12,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-tareq&show_icons=true&theme=chartreuse-dark&locale=en" alt="dev-tareq" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-tareq&theme=chartreuse-dark)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dev-tareq&theme=chartreuse-dark" alt="dev-tareq" /></p>
